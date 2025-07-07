@@ -7,8 +7,9 @@ Hi 👋 I'm Tara Rasti, a junior data scientist with a background in Statistics 
 🔭 Currently learning: SQL, Tableau, advanced machine learning, and MLOps  
 
 👨‍💻 Selected Projects:
-- 🌍 **A Beginner’s Guide To Exploratory Data Analysis (EDA) With Real Examples** – Exploratory analysis and visualization  
-- 🎯 **An Easy End-To-End Machine Learning Project In Python** – Getting started with Machine Learning  
+🌍 A Beginner’s Guide To Exploratory Data Analysis (EDA) With Real Examples – Performed data cleaning, visualization, and statistical exploration to uncover patterns and insights in real-world datasets.
+🎯 An Easy End-To-End Machine Learning Project In Python – Built a complete ML pipeline from preprocessing to model evaluation, showcasing core concepts in a beginner-friendly format.
+🏠 Real UK Housing Data, Real Results: A Machine Learning Journey To 90% Accuracy – Developed a regression model on real UK housing data, applying feature engineering and hyperparameter tuning to achieve 90% prediction accuracy.
 
 📌 I'm actively building my portfolio, contributing to open source, and preparing for research internships at AI labs like DeepMind.
 

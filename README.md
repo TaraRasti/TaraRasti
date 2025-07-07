@@ -11,7 +11,7 @@ Hi 👋 I'm Tara Rasti, a junior data scientist with a background in Statistics 
 - 🌍 [**A Beginner’s Guide To Exploratory Data Analysis (EDA) With Real Examples**](https://github.com/TaraRasti/UK-Housing-Dataset-EDA)  
   Performed data cleaning, visualization, and statistical exploration to uncover patterns and insights in real-world datasets.
 
-- 🎯 [**An Easy End-To-End Machine Learning Project In Python**]([(https://github.com/TaraRasti/Data-Science/blob/main/End-to-end%20Machine%20Learning.ipynb)])  
+- 🎯 [**An Easy End-To-End Machine Learning Project In Python**]([(https://github.com/TaraRasti/Data-Science])  
   Built a complete ML pipeline from preprocessing to model evaluation, showcasing core concepts in a beginner-friendly format.
 
 - 🏠 [**Real UK Housing Data, Real Results: A Machine Learning Journey To 90% Accuracy**](https://github.com/TaraRasti/UK-Housing-Dataset-ML)  

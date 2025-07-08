@@ -14,7 +14,7 @@ Hi 👋 I'm Tara Rasti, a junior data scientist with a background in Statistics 
   Built a complete ML pipeline from preprocessing to model evaluation, showcasing core concepts in a beginner-friendly format.
 
 - 🏠 [**Real UK Housing Data, Real Results: A Machine Learning Journey To 90% Accuracy**](https://github.com/TaraRasti/UK-Housing-Dataset-ML)  
-  Developed a regression model on real UK housing data, applying feature engineering and hyperparameter tuning to achieve 90% prediction accuracy.
+  Developed a regression model on real UK housing data, applying feature engineering and hyperparameter tuning to achieve 94% prediction accuracy.
 
 
 ---

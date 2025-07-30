@@ -21,7 +21,7 @@ Hi 👋 I'm Tara Rasti, a junior data scientist with a background in Statistics 
 
 ## 📜 Certificates
 
-- 🧠 2025 — *Supervised Machine Learning: Regression and Classification* – Coursera  
+- 🧠 2025 — *Machine Learning Specialization* – Coursera  
 - 🧪 2021 — *Deep Learning with PyTorch: CNN* – Coursera  
 - 🤖 2021 — *Machine Learning with Python* – EdX  
 

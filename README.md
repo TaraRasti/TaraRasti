@@ -35,7 +35,8 @@ Hi 👋 I'm Tara Rasti, a junior data scientist with a background in Statistics 
 📌 I'm actively building my portfolio, contributing to open source, and preparing for research internships at AI labs like DeepMind.
 
 Let's connect!  
-🔗 [LinkedIn](https://www.linkedin.com/in/tararasti) | 🐙 [GitHub](https://github.com/tararasti) | ✉️ [Email](tararasti@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/tararasti) | 🐙 [GitHub](https://github.com/tararasti) | ✉️ [Email](tararasti@gmail.com) | 📝 [Medium](https://medium.com/@tararasti)
+
 
 ### 👯 Looking to Collaborate On
 - Data science projects related to Healthcare, NLP, Computer Vision

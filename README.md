@@ -16,7 +16,7 @@ Hi 👋 I'm Tara Rasti, a junior data scientist with a background in Statistics 
 
 - 🏠 [**Real UK Housing Data, Real Results: A Machine Learning Journey To 94% Accuracy**](https://github.com/TaraRasti/UK-Housing-Dataset-ML)  
   Developed a regression model on real UK housing data, applying feature engineering and hyperparameter tuning to achieve 94% prediction accuracy.
-  - 🚦 [**A Hands-On Approach To Classifying UK Pedestrian Crossings With AI And Spatial Data**](https://github.com/TaraRasti/UK-Pedestrian-Crossings)  
+- 🚦 [**A Hands-On Approach To Classifying UK Pedestrian Crossings With AI And Spatial Data**](https://github.com/TaraRasti/UK-Pedestrian-Crossings)  
   Applied spatial data analysis and machine learning techniques to classify pedestrian crossings across the UK using real-world datasets.
 
 

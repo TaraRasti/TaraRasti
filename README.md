@@ -1,6 +1,7 @@
 Hi 👋 I'm Tara Rasti, a junior data scientist with a background in Statistics and Artificial Intelligence.
 
 🎓 MSc in Data Science – Thesis: Brain MRI Analysis for Detecting Alzheimer’s Disease Using Convolutional Spiking Neural Network
+
 📊 BSc in Statistics  
 🧠 Passionate about medical AI, data visualisation , and statistical modeling  
 ✍️ Writing educational data science articles on [Medium](https://medium.com/@tararasti)  

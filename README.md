@@ -23,8 +23,9 @@ Hi 👋 I'm Tara Rasti, a junior data scientist with a background in Statistics 
 ---
 
 ## 📜 Certificates
-- 🕵️ 2025 - *IBM Data Analyst* - IBM 
-- 📈 2025 - *IBM Data Science* - IBM
+- 🦾 2025 - *Advanced AI: Deep Reinforcement Learning in Pytorch* - Udemy 
+- 🕵️ 2025 - *IBM Data Analyst Professional Certificate* - IBM 
+- 📈 2025 - *IBM Data Science Professional Certificate* - IBM
 - 💻 2025 - *Microsoft SQL Server* - Coursera
 - 🧠 2025 — *Machine Learning Specialization* – Coursera  
 - 🧪 2021 — *Deep Learning with PyTorch: CNN* – Coursera  

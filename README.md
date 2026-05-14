@@ -23,7 +23,9 @@ Hi 👋 I'm Tara Rasti, a junior data scientist with a background in Statistics 
 ---
 
 ## 📜 Certificates
-
+- 🕵️ 2025 - *IBM Data Analyst* - IBM 
+- 📈 2025 - *IBM Data Science* - IBM
+- 💻 2025 - *Microsoft SQL Server* - Coursera
 - 🧠 2025 — *Machine Learning Specialization* – Coursera  
 - 🧪 2021 — *Deep Learning with PyTorch: CNN* – Coursera  
 - 🤖 2021 — *Machine Learning with Python* – EdX  
@@ -50,7 +52,6 @@ Let's connect!
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![seaborn](https://img.shields.io/badge/Seaborn-0D4068?style=for-the-badge&logo=python&logoColor=white)  
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)  
-![SPSS](https://img.shields.io/badge/SPSS-005BAC?style=for-the-badge&logo=ibm&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 

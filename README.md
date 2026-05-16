@@ -43,7 +43,7 @@ Let's connect!
 
 
 ### 👯 Looking to Collaborate On
-- Data science projects related to Healthcare, NLP, Computer Vision
+- Data science projects related to Healthcare, Medical AI, Computer Vision
 - Open-source contributions in AI, education, tools
 ### 🛠️ Tech Stack
 

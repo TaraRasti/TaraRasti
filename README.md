@@ -8,7 +8,7 @@ Hi 👋 I'm Tara Rasti, a junior data scientist with a background in Statistics 
 🔭 Currently learning: SQL, Tableau, advanced machine learning, and MLOps  
 
 ## 👩🏻‍💻 Selected Projects
-- 🌍 [**A Beginner’s Guide To Exploratory Data Analysis (EDA) With Real Examples**]([https://github.com/TaraRasti/UK-Housing-Dataset-EDA](https://github.com/TaraRasti/Data-Science))  
+- 🌍 [**A Beginner’s Guide To Exploratory Data Analysis (EDA) With Real Examples**](https://github.com/TaraRasti/Data-Science)  
   Performed data cleaning, visualization, and statistical exploration to uncover patterns and insights in real-world datasets.
 
 - 🎯 [**An Easy End-To-End Machine Learning Project In Python**](https://github.com/TaraRasti/Data-Science)  

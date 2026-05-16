@@ -19,7 +19,7 @@ Hi 👋 I'm Tara Rasti, a junior data scientist with a background in Statistics 
 - 🚦 [**A Hands-On Approach To Classifying UK Pedestrian Crossings With AI And Spatial Data**](https://github.com/TaraRasti/UK-Pedestrian-Crossings)  
   Applied spatial data analysis and machine learning techniques to classify pedestrian crossings across the UK using real-world datasets.
 - ⚖️ [**Who Broke The Rules? A Data-Driven Look At ASBOs In England And Wales**](https://github.com/TaraRasti/ASBOs-in-England-and-Wales-)
-- This project explores the issuance and breach of Anti-Social Behaviour Orders (ASBOs) in England and Wales using official data from the UK Ministry of Justice.
+  This project explores the issuance and breach of Anti-Social Behaviour Orders (ASBOs) in England and Wales using official data from the UK Ministry of Justice.
 
 ---
 

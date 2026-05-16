@@ -5,7 +5,7 @@ Hi 👋 I'm Tara Rasti, a junior data scientist with a background in Statistics 
 📊 BSc in Statistics  
 🧠 Passionate about medical AI, data visualisation , and statistical modeling  
 ✍️ Writing educational data science articles on [Medium](https://medium.com/@tararasti)  
-🔭 Currently learning: SQL, Tableau, advanced machine learning, and MLOps  
+🔭 Currently learning: SQL, Power BI, advanced machine learning, and MLOps  
 
 ## 👩🏻‍💻 Selected Projects
 - 🌍 [**A Beginner’s Guide To Exploratory Data Analysis (EDA) With Real Examples**](https://github.com/TaraRasti/Data-Science)  
